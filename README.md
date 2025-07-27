@@ -3,7 +3,11 @@ Request Management System
 Sistema de Gerenciamento de Solicitações
 
 This project aims to develop a system for registering and managing service requests. It is being built with a fullstack architecture in mind and includes multilingual support for global-ready applications.
+
+
 このプロジェクトは、サービスリクエストの登録と管理を目的としたシステムの開発を目指しています。将来的なフルスタック化と多言語対応を視野に入れた設計です。
+
+
 Este projeto tem como objetivo criar um sistema para registro e gerenciamento de solicitações. Está sendo desenvolvido com foco em aplicações fullstack e suporte multilíngue para cenários globais.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
