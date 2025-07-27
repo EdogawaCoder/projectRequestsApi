@@ -1,5 +1,7 @@
 Request Management System
+
 リクエスト管理システム
+
 Sistema de Gerenciamento de Solicitações
 
 This project aims to develop a system for registering and managing service requests. It is being built with a fullstack architecture in mind and includes multilingual support for global-ready applications.
@@ -12,7 +14,9 @@ Este projeto tem como objetivo criar um sistema para registro e gerenciamento de
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Features
+
 主な機能
+
 Funcionalidades
 
 Register new service requests
@@ -42,7 +46,9 @@ Pronto para integração com frontend
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Tech Stack
+
 使用技術
+
 Tecnologias utilizadas
 
 Java 21
@@ -65,7 +71,9 @@ Docker
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Getting Started
+
 始め方
+
 Como executar o projeto
 
 Clone the repository
@@ -84,7 +92,9 @@ ________________________________________________________________________________
 
 
 Project Structure
+
 プロジェクト構成
+
 Estrutura do projeto
 
 src/
@@ -104,7 +114,9 @@ ________________________________________________________________________________
 
 
 Roadmap
+
 今後の予定
+
 Próximos passos
 
 Frontend implementation on Angular
